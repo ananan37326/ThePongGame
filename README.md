@@ -1,6 +1,8 @@
 # Pong Game
 This is a simple implementation of the classic game **Pong** using the Turtle module in Python. The game consists of two paddles controlled by the player and a ball that bounces around the screen. The objective of the game is to score points by hitting the ball past the opponent's paddle. The ball's speed increases every time it hits a paddle. The game ends when one of the players reaches 10 points.
 
+![Pong Game](./Pong.png)
+
 ## Prerequisites
 You will need to have **Python 3** installed on your machine. You can download Python from the official website: https://www.python.org/downloads/
 
