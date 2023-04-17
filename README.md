@@ -22,8 +22,8 @@ cd ThePongGame
 python main.py
 ```
 2. Movement
---1. Player 1: Use the `W` and `S` keys to move the paddle up and down.
---2. Player 2: Use the `Up` and `Down` arrow keys to move the paddle up and down.
+    1. Player 1: Use the `W` and `S` keys to move the paddle up and down.
+    2. Player 2: Use the `Up` and `Down` arrow keys to move the paddle up and down.
 3. The ball will bounce off the top and bottom walls and the paddles.
 4. If the ball passes your opponent's paddle, you score a point.
 5. The game ends when one player reaches a predetermined number of points (set inside `scoreboard.py`).
